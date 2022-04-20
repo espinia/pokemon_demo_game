@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - GrassPokemon
+  - Interactable
+  - Player
+  - FOV
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3175962937
+    locked: 0
+  - name: Foreground
+    uniqueID: 4148395293
+    locked: 0
+  - name: Player
+    uniqueID: 4131166531
+    locked: 0
+  - name: MostForeground
+    uniqueID: 1701274195
+    locked: 0
+  - name: Battle
+    uniqueID: 2700253795
+    locked: 0

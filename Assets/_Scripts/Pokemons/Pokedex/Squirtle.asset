@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4559f6de4854d4290b34b7479fefe2, type: 3}
+  m_Name: Squirtle
+  m_EditorClassIdentifier: 
+  id: 7
+  name: Squirtle
+  description: Tras nacer, su espalda se hincha y endurece como una concha. Echa
+    potente espuma por la boca
+  frontSprite: {fileID: 21300000, guid: 25bf10f7d0ac0a84eabb77c70aafd6f3, type: 3}
+  backSprite: {fileID: 21300000, guid: 63537b96a6fc2f54cafd4a0715609c3a, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 44
+  attack: 48
+  defense: 65
+  spAttack: 50
+  spDefense: 64
+  speed: 43
+  expBase: 64
+  growthRate: 3
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 34de6dab881f3f5499af61768641bd1b, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: d50eeee08b335574c8a8eebe28ae32e4, type: 2}
+    level: 5
+  - move: {fileID: 11400000, guid: eb9c64f7501dafd43845ea7cb687bd95, type: 2}
+    level: 7
+  - move: {fileID: 11400000, guid: 329723072db0d904fa8c4cc8cbb77c2e, type: 2}
+    level: 1
+  catchRate: 45

@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: 3d33e7d1c328700449d7cd944dbdc520
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2738062349812766609
+    second: trainerGril_0
+  - first:
+      213: 8382697883906385116
+    second: trainerGril_1
+  - first:
+      213: 7621380912057136989
+    second: trainerGril_2
+  - first:
+      213: -1403733805535455178
+    second: trainerGril_3
+  - first:
+      213: -7322591107992286056
+    second: trainerGril_4
+  - first:
+      213: 6929579320238326702
+    second: trainerGril_5
+  - first:
+      213: -6798231084216153317
+    second: trainerGril_6
+  - first:
+      213: -8521649273154219151
+    second: trainerGril_7
+  - first:
+      213: -778148862999084769
+    second: trainerGril_8
+  - first:
+      213: -4825230161128798450
+    second: trainerGril_9
+  - first:
+      213: 336595629842435483
+    second: trainerGril_10
+  - first:
+      213: -2480083032050959888
+    second: trainerGril_11
+  - first:
+      213: 6703716227326156758
+    second: trainerGril_12
+  - first:
+      213: 7156993391913057411
+    second: trainerGril_13
+  - first:
+      213: 1660726431351017383
+    second: trainerGril_14
+  - first:
+      213: 2087802159580847403
+    second: trainerGril_15
+  - first:
+      213: -8898284637955403422
+    second: trainerGril_16
+  - first:
+      213: -9078713446675204109
+    second: trainerGril_17
+  - first:
+      213: -9034550340074251815
+    second: trainerGril_18
+  - first:
+      213: 2932265012828404264
+    second: trainerGril_19
+  - first:
+      213: -1366057808599715862
+    second: trainerGril_20
+  - first:
+      213: 8359080045823694324
+    second: trainerGril_21
+  - first:
+      213: -1124813853558827114
+    second: trainerGril_22
+  - first:
+      213: 6083319961008041066
+    second: trainerGril_23
+  - first:
+      213: 106613722779332286
+    second: trainerGril_24
+  - first:
+      213: -4924323954439410699
+    second: trainerGril_25
+  - first:
+      213: 836232635385942722
+    second: trainerGril_26
+  - first:
+      213: 4244677631531366339
+    second: trainerGril_27
+  - first:
+      213: 4830734686941587719
+    second: trainerGril_28
+  - first:
+      213: -8903149251723155170
+    second: trainerGril_29
+  - first:
+      213: 5559951423340018393
+    second: trainerGril_30
+  - first:
+      213: 900233409696655859
+    second: trainerGril_31
+  - first:
+      213: 4566609863832854296
+    second: trainerGril_32
+  - first:
+      213: 3589443442072412544
+    second: trainerGril_33
+  - first:
+      213: 1011880239643001707
+    second: trainerGril_34
+  - first:
+      213: -9142585838312993473
+    second: trainerGril_35
+  - first:
+      213: -2622036575741748115
+    second: trainerGril_36
+  - first:
+      213: 3688343565000770732
+    second: trainerGril_37
+  - first:
+      213: 8368377664644655645
+    second: trainerGril_38
+  - first:
+      213: -8905544377760244648
+    second: trainerGril_39
+  - first:
+      213: -5126630078892681052
+    second: trainerGril_40
+  - first:
+      213: -8834180676291790298
+    second: trainerGril_41
+  - first:
+      213: -3679054998127803551
+    second: trainerGril_42
+  - first:
+      213: -8039173574732346601
+    second: trainerGril_43
+  - first:
+      213: -466630872248683651
+    second: trainerGril_44
+  - first:
+      213: -3110240305649397904
+    second: trainerGril_45
+  - first:
+      213: -9089917373523678037
+    second: trainerGril_46
+  - first:
+      213: -4037168295468287768
+    second: trainerGril_47
+  - first:
+      213: -6917545588758851394
+    second: trainerGril_48
+  - first:
+      213: -328668074118147416
+    second: trainerGril_49
+  - first:
+      213: 106255381104519166
+    second: trainerGril_50
+  - first:
+      213: 6380966656537279040
+    second: trainerGril_51
+  - first:
+      213: -7248944486063385151
+    second: trainerGril_52
+  - first:
+      213: -8142172174971566536
+    second: trainerGril_53
+  - first:
+      213: 9013379942246559686
+    second: trainerGril_54
+  - first:
+      213: 7661197369203056568
+    second: trainerGril_55
+  - first:
+      213: -4625084633194106546
+    second: trainerGril_56
+  - first:
+      213: 5167639650534708559
+    second: trainerGril_57
+  - first:
+      213: -4780269874814670305
+    second: trainerGril_58
+  - first:
+      213: -3751190233991723286
+    second: trainerGril_59
+  - first:
+      213: 1971963325023011546
+    second: trainerGril_60
+  - first:
+      213: -1425606962272112258
+    second: trainerGril_61
+  - first:
+      213: 8606365009180347938
+    second: trainerGril_62
+  - first:
+      213: -6239221059761763753
+    second: trainerGril_63
+  - first:
+      213: 8674449526127404138
+    second: trainerGril_64
+  - first:
+      213: 1891628764227535468
+    second: trainerGril_65
+  - first:
+      213: 1259964218945866661
+    second: trainerGril_66
+  - first:
+      213: -1901451334413667611
+    second: trainerGril_67
+  - first:
+      213: 6246728955923585942
+    second: trainerGril_68
+  - first:
+      213: 2204278279983588050
+    second: trainerGril_69
+  - first:
+      213: 3486148168168788042
+    second: trainerGril_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trainerGril_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 305
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e98abcc2700ad0800000000000000
+      internalID: -2738062349812766609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 304
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a8addf43555470800000000000000
+      internalID: 8382697883906385116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bb194f8594c960800000000000000
+      internalID: 7621380912057136989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 304
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6381ad98a8fe48ce0800000000000000
+      internalID: -1403733805535455178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 303
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8fac1f2ee06a90800000000000000
+      internalID: -7322591107992286056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 303
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c2b16dafca2060800000000000000
+      internalID: 6929579320238326702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b0744f8d4d7a1a0800000000000000
+      internalID: -6798231084216153317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 303
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735d2db2250db980800000000000000
+      internalID: -8521649273154219151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c09e5bb57335f0800000000000000
+      internalID: -778148862999084769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 300
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ca6ecbb6590db0800000000000000
+      internalID: -4825230161128798450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 299
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d05b521f3dba400800000000000000
+      internalID: 336595629842435483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 300
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f0255f99f49dd0800000000000000
+      internalID: -2480083032050959888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 267
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1cc41462680d50800000000000000
+      internalID: 6703716227326156758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 267
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbbc0129fb25360800000000000000
+      internalID: 7156993391913057411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 267
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af87c1f3e51c0710800000000000000
+      internalID: 1660726431351017383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 281
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d1c13a00d59fc10800000000000000
+      internalID: 2087802159580847403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 280
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615a545441f28480800000000000000
+      internalID: -8898284637955403422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 281
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7bc59a83ee10280800000000000000
+      internalID: -9078713446675204109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95d723554de9280800000000000000
+      internalID: -9034550340074251815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 279
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a71fc4e7f71b820800000000000000
+      internalID: 2932265012828404264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 279
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe3c729a9ca0de0800000000000000
+      internalID: -1366057808599715862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 279
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5906c630b610470800000000000000
+      internalID: 8359080045823694324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 279
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697103c72cbd360f0800000000000000
+      internalID: -1124813853558827114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 269
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6de2164b4c6450800000000000000
+      internalID: 6083319961008041066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 268
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea172bd94ca7100800000000000000
+      internalID: 106613722779332286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 269
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb21b0247949abb0800000000000000
+      internalID: -4924323954439410699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 268
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c294cdb625ea9b00800000000000000
+      internalID: 836232635385942722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7397d01df18ea30800000000000000
+      internalID: 4244677631531366339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709af4b7a973a0340800000000000000
+      internalID: 4830734686941587719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a1cc2de8a17480800000000000000
+      internalID: -8903149251723155170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 256
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dafb949c5ae82d40800000000000000
+      internalID: 5559951423340018393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f968e734854e7c00800000000000000
+      internalID: 900233409696655859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 256
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f5d89e97bdf5f30800000000000000
+      internalID: 4566609863832854296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 256
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e41afac340d130800000000000000
+      internalID: 3589443442072412544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 236
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63882f77bbea0e00800000000000000
+      internalID: 1011880239643001707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 237
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d46da9e920f1180800000000000000
+      internalID: -9142585838312993473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 236
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd4d260a7ac9bd0800000000000000
+      internalID: -2622036575741748115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca408714ee0af2330800000000000000
+      internalID: 3688343565000770732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 235
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a257ff523722470800000000000000
+      internalID: 8368377664644655645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 235
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9f107296296480800000000000000
+      internalID: -8905544377760244648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 235
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d4c4fa1d8ad8b0800000000000000
+      internalID: -5126630078892681052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 235
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af10cfa7fa66580800000000000000
+      internalID: -8834180676291790298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163877fb8fe51fcc0800000000000000
+      internalID: -3679054998127803551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0f562a3e1f6090800000000000000
+      internalID: -8039173574732346601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 233
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f26aa1b13689f0800000000000000
+      internalID: -466630872248683651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4aa7bbe436d4d0800000000000000
+      internalID: -3110240305649397904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 232
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac28792f402ad180800000000000000
+      internalID: -9089917373523678037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b42a33d819f7c0800000000000000
+      internalID: -4037168295468287768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 232
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0557010f0ffff90800000000000000
+      internalID: -6917545588758851394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_49
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 232
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a21d21c026507bf0800000000000000
+      internalID: -328668074118147416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76536c4be797100800000000000000
+      internalID: 106255381104519166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_51
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 204
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3486cd5fbd8850800000000000000
+      internalID: 6380966656537279040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 203
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55aaf7563966b90800000000000000
+      internalID: -7248944486063385151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 204
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83600c2cb81310f80800000000000000
+      internalID: -8142172174971566536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_54
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 200
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfac337d45f51d70800000000000000
+      internalID: 9013379942246559686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5181aa6a025a60800000000000000
+      internalID: 7661197369203056568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_56
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 200
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f856e70660dfb0800000000000000
+      internalID: -4625084633194106546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45585102e427b740800000000000000
+      internalID: 5167639650534708559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aab2530e119adb0800000000000000
+      internalID: -4780269874814670305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6420a5b5811fbc0800000000000000
+      internalID: -3751190233991723286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2481a3232dd5b10800000000000000
+      internalID: 1971963325023011546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_61
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717270650a373ce0800000000000000
+      internalID: -1425606962272112258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ecb8b9063ff6770800000000000000
+      internalID: 8606365009180347938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 128
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a83c1c085d969a0800000000000000
+      internalID: -6239221059761763753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6421e282e5d16870800000000000000
+      internalID: 8674449526127404138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 98
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6281bab65a604a10800000000000000
+      internalID: 1891628764227535468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 127
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab88f318ca4c7110800000000000000
+      internalID: 1259964218945866661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b49ee510bc95e0800000000000000
+      internalID: -1901451334413667611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_68
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd8f983e6d0b650800000000000000
+      internalID: 6246728955923585942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_69
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 66
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e788ba6b279e10800000000000000
+      internalID: 2204278279983588050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainerGril_70
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40541ed949416030800000000000000
+      internalID: 3486148168168788042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
